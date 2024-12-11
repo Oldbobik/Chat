@@ -1,0 +1,2 @@
+large_file.dat filter=lfs diff=lfs merge=lfs -text
+bigfile.dat filter=lfs diff=lfs merge=lfs -text
