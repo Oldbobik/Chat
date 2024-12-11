@@ -1,0 +1,4 @@
+﻿  source.cpp
+C:\Users\Viktor\Desktop\2kurs_1sem\OS\9lab\Lab9\ChatServer\source.cpp(112,52): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\Viktor\Desktop\2kurs_1sem\OS\9lab\Lab9\ChatServer\source.cpp(163,11): warning C4101: 'bytesWritten': unreferenced local variable
+  ChatServer.vcxproj -> C:\Users\Viktor\Desktop\2kurs_1sem\OS\9lab\Lab9\ChatServer\x64\Debug\ChatServer.exe

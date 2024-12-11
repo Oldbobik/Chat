@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Viktor\\Desktop\\2kurs_1sem\\OS\\9lab\\Lab9\\ChatServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19AFA881-8369-442F-A3E2-8EF032D81E23}|ChatServer.vcxproj|C:\\Users\\Viktor\\Desktop\\2kurs_1sem\\OS\\9lab\\Lab9\\ChatServer\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19AFA881-8369-442F-A3E2-8EF032D81E23}|ChatServer.vcxproj|solutionrelative:source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 320,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "source.cpp",
+              "DocumentMoniker": "C:\\Users\\Viktor\\Desktop\\2kurs_1sem\\OS\\9lab\\Lab9\\ChatServer\\source.cpp",
+              "RelativeDocumentMoniker": "source.cpp",
+              "ToolTip": "C:\\Users\\Viktor\\Desktop\\2kurs_1sem\\OS\\9lab\\Lab9\\ChatServer\\source.cpp",
+              "RelativeToolTip": "source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-10T10:22:14.303Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

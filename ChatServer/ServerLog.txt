@@ -1,0 +1,37 @@
+
+
+11-12-2024 21:10:19 Chat server started. Waiting for client...
+11-12-2024 21:10:20 Client connected via Named Pipes!
+11-12-2024 21:10:26 Client: Hi
+11-12-2024 21:10:29 You: Hello
+11-12-2024 21:11:59 Client: How are you?
+11-12-2024 21:12:03 You: Fine
+11-12-2024 21:12:12 Client: BB
+11-12-2024 21:12:19 You: /exit
+11-12-2024 21:12:19 The chat session has been ended by the server.
+
+11-12-2024 21:28:17 Chat server started. Waiting for client...
+11-12-2024 21:28:19 Client connected via File Mapping!
+11-12-2024 21:28:37 Client: Good evening
+11-12-2024 21:28:47 You: Good evening
+11-12-2024 21:28:47 Client: Good evening
+11-12-2024 21:28:57 You: /menu
+11-12-2024 21:28:57 The chat session has been ended by the server.
+
+11-12-2024 21:28:58 Chat server started. Waiting for client...
+11-12-2024 21:29:00 Client connected via File Mapping!
+11-12-2024 21:29:02 Client: Good evening
+11-12-2024 21:29:05 You: Good evening
+11-12-2024 21:33:13 Client: I would like to buy some pizza
+11-12-2024 21:33:25 You: What pizza do you want?
+11-12-2024 21:33:33 Client: 3 cheeses
+11-12-2024 21:34:14 You: /menu
+11-12-2024 21:34:14 The chat session has been ended by the server.
+
+11-12-2024 21:34:38 Chat server started. Waiting for client...
+11-12-2024 21:34:40 Client connected via Named Pipes!
+11-12-2024 21:34:42 Client: Hi
+11-12-2024 21:34:44 You: Hello
+11-12-2024 21:34:50 Client: How are you?
+11-12-2024 21:34:57 You: Fine, thank you
+11-12-2024 21:34:59 Client: BB
