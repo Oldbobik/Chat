@@ -38,3 +38,49 @@
 11-12-2024 21:34:57 Server: Fine, thank you
 11-12-2024 21:34:59 You: BB
 
+12-12-2024 15:34:59 Waiting for server to start...
+12-12-2024 15:35:02 Connecting to the server...
+12-12-2024 15:35:02 Connected to the server via Named Pipes!
+12-12-2024 15:35:12 You: /menu
+12-12-2024 15:35:12 The chat session has been ended by the client.
+
+12-12-2024 15:35:25 Waiting for server to start...
+12-12-2024 15:35:25 Connected to the server via File Mapping!
+12-12-2024 15:36:03 Waiting for server to start...
+12-12-2024 15:36:13 Connecting to the server...
+12-12-2024 15:36:13 Connected to the server via Named Pipes!
+12-12-2024 15:36:27 You: Hi
+12-12-2024 15:36:30 Server: hello
+12-12-2024 15:36:33 You:  eibfger giber gerubg
+12-12-2024 15:36:41 Server: /exit
+12-12-2024 15:36:41 The chat session has been ended by the server.
+
+12-12-2024 15:49:40 Waiting for server to start...
+12-12-2024 15:49:50 Connecting to the server...
+12-12-2024 15:49:50 Connected to the server via Named Pipes!
+12-12-2024 15:50:26 You: Hi
+12-12-2024 15:50:29 Server: Hello
+12-12-2024 15:50:31 You: Hello
+12-12-2024 15:50:35 Server: Goo tjgbtr ijrt 
+12-12-2024 15:50:37 You: trgoirt hir thrt hort wh
+12-12-2024 15:50:42 Server: /menu
+12-12-2024 15:50:42 The chat session has been ended by the server.
+
+12-12-2024 15:57:47 Waiting for server to start...
+12-12-2024 15:57:50 Connecting to the server...
+12-12-2024 15:57:50 Connected to the server via Named Pipes!
+12-12-2024 15:57:52 You: Hi
+12-12-2024 15:57:55 Server: Hello
+12-12-2024 15:58:01 You: How are you?
+12-12-2024 15:58:03 Server: BB
+12-12-2024 15:58:06 You: /menu
+12-12-2024 15:58:06 The chat session has been ended by the client.
+
+12-12-2024 15:58:09 Waiting for server to start...
+12-12-2024 15:58:09 Connected to the server via File Mapping!
+12-12-2024 15:58:11 You: HHi
+12-12-2024 15:58:14 Server: helllo
+12-12-2024 15:58:16 You: BB
+12-12-2024 15:58:20 Server: /exit
+12-12-2024 15:58:20 The chat session has been ended by the server.
+

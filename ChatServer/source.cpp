@@ -213,14 +213,39 @@ void startFileMappingChat() {
     CloseHandle(hMapFile);
 }
 //---------------------------------------------------------
+void showProgramInfo() {
+    system("cls");
+    int exit;
+    std::cout << "Program Information:\n";
+    std::cout << "This program allows communication between a client and a server using two methods:\n";
+    std::cout << "1. Named Pipes\n";
+    std::cout << "2. File Mapping\n\n";
+    std::cout << "When the client sends a message, you will be able to send a response. You can then continue the conversation.\n";
+    std::cout << "Choose the communication method when prompted at the beginning.\n\n";
+    std::cout << "Available commands during the chat session:\n";
+    std::cout << "/exit - Ends the chat session.\n";
+    std::cout << "/menu - Ends the chat session and returns to the main menu.\n\n";
+    std::cout << "Enjoy chatting!\n\n";
+    std::cout << "Enter '0' to return to the menu\n";
+    while (true) {
+        std::cin >> exit;
+        if (exit == 0) {
+            system("cls");
+            return;
+        }
+    }
+}
+//----------------------------------------------------------
 
 int main() {
     while (true) {
         int choice;
+        std::cout << "SERVER CHAT\n";
         std::cout << "Choose communication method:\n";
         std::cout << "1. Named Pipes\n";
         std::cout << "2. File Mapping\n";
         std::cout << "3. Exit\n";
+        std::cout << "0. View Program Info\n";
         std::cout << "Enter your choice: ";
         std::cin >> choice;
         std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
@@ -235,6 +260,9 @@ int main() {
         case 3:
             std::cout << "Exiting the program.\n";
             return 0;
+        case 0:
+            showProgramInfo();
+            break;
         default:
             system("cls");
             std::cout << "Invalid choice. Try again.\n";
